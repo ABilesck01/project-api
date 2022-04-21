@@ -1,0 +1,12 @@
+.view
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.itemViewUser
+{
+    padding: 10px 20px;
+    margin: 5px 15px;
+}
